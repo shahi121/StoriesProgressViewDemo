@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280802789146",
+    "firebase_url": "https://fir-application-3cfe4.firebaseio.com",
+    "project_id": "fir-application-3cfe4",
+    "storage_bucket": "fir-application-3cfe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280802789146:android:9add9b4e1a1c0b3d",
+        "android_client_info": {
+          "package_name": "com.shahi.storiesprogressviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280802789146-b0du3ef4bj9mn967td5csgdqapbcqle5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_tg2d5jyV64JSCyW1rIFdurrOr1U5SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280802789146-b0du3ef4bj9mn967td5csgdqapbcqle5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
